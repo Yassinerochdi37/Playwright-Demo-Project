@@ -1,0 +1,7 @@
+.vs/
+node_modules/
+/test-results/
+/json-test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

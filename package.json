@@ -1,0 +1,15 @@
+{
+  "name": "first-playwright-project",
+  "version": "1.0.0",
+  "author": "Yassine ROCHDI",
+  "description": "My first project to test Playwright",
+  "scripts": {
+    "test": "playwright test",
+    "test-ui": "playwright test --ui"
+  },
+  "keywords": ["Playwright", "Automatisation", "Automation", "Test"],
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  }
+}
